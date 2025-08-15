@@ -1,0 +1,19 @@
+{
+  "name": "shared-image-processing",
+  "version": "1.0.0",
+  "description": "Módulo compartido para procesamiento de imágenes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "sharp": "^0.32.6"
+  },
+  "keywords": [
+    "image-processing",
+    "sharp",
+    "optimization"
+  ],
+  "author": "Tu nombre",
+  "license": "MIT"
+}

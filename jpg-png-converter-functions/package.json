@@ -1,0 +1,15 @@
+{
+  "name": "jpg-png-converter-functions",
+  "version": "1.0.0",
+  "description": "Azure Function para conversión específica de JPG a PNG",
+  "main": "index.js",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@azure/functions": "^4.0.0",
+    "formidable": "^3.5.1",
+    "sharp": "^0.32.6"
+  }
+}
