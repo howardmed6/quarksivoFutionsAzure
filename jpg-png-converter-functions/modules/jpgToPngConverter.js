@@ -1,6 +1,6 @@
 const sharp = require('sharp');
 // Importar módulo compartido - ajustar ruta según estructura
-const sharedImageProcessing = require('../../shared-image-processing');
+const sharedImageProcessing = require('./shared-image-processing');
 
 /**
  * Conversor específico de JPG a PNG
