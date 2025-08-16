@@ -1,0 +1,13 @@
+{
+  "name": "quarksivo-functions",
+  "version": "1.0.0",
+  "description": "Image processing functions with shared utilities",
+  "main": "jpg-png-converter-functions/src/functions/ImageConverter.js",
+  "scripts": {
+    "start": "cd jpg-png-converter-functions && func start"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=18"
+  }
+}
